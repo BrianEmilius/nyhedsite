@@ -1,4 +1,4 @@
 <?php
 echo "Hello, World!";
-phpinfo();
+echo "Ikke verdens bedste program";
 ?>
